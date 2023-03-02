@@ -1,1 +1,1 @@
-Security practioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
+Security practitioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
